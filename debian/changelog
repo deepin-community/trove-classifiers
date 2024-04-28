@@ -1,3 +1,18 @@
+trove-classifiers (2024.1.31-1) unstable; urgency=medium
+
+  * Team upload.
+  * [f52140d] New upstream version 2024.1.31
+  * [6740d81] d/copyright: Update year data
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Tue, 13 Feb 2024 16:18:07 +0100
+
+trove-classifiers (2023.9.19-1) unstable; urgency=medium
+
+  * Team upload.
+  * [c68304f] New upstream version 2023.9.19
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 24 Sep 2023 09:44:35 +0200
+
 trove-classifiers (2023.7.6-1) unstable; urgency=medium
 
   * Team upload.
