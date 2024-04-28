@@ -6,7 +6,7 @@ Upstream-Contact: The PyPI Admins <admin@pypi.org>
 Files:
  *
 Copyright:
- 2022-2023 The PyPI Admins <admin@pypi.org>
+ 2022-2024 The PyPI Admins <admin@pypi.org>
 License: Apache-2.0
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@ Files:
  debian/*
 Copyright:
  2022 Gudjon I. Gudjonsson <gudjon@gudjon.org>
- 2023 Carsten Schoenert <c.schoenert@t-online.de>
+ 2023-2024 Carsten Schoenert <c.schoenert@t-online.de>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
